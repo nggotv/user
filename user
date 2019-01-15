@@ -46,8 +46,6 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/mwy2du.jpg" group-title="Kids",Biznet Home Kids
-http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz
 #EXTINF:-1 tvg-logo="http://oi64.tinypic.com/214vciv.jpg" group-title="Kids",MY Kids
 http://rr2.dens.tv/s/s30/index2.m3u8
 #EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2vkm6b9.jpg" group-title="Kids",NickJr
