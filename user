@@ -46,6 +46,18 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/mwy2du.jpg" group-title="Kids",Biznet Home Kids
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/214vciv.jpg" group-title="Kids",MY Kids
+http://rr2.dens.tv/s/s30/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2vkm6b9.jpg" group-title="Kids",NickJr
+http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2hi4he1.jpg" group-title="Kids",Smart Cinema
+http://103.14.127.35:1935/smartcinema/smartcinema.stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2pzle7t.jpg" group-title="Kids",Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2mn3q6d.jpg" group-title="Entertainment",K+
 http://rr.dens.tv/h/h08/index2.m3u8
 #EXTINF:-1 tvg-logo="http://oi64.tinypic.com/apis9e.jpg" group-title="Entertainment",SBS-in
@@ -104,23 +116,11 @@ http://rr2.dens.tv/s/s48/index2.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/mwy2du.jpg" group-title="Kids",Biznet Home Kids
-http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz
-#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/214vciv.jpg" group-title="Kids",MY Kids
-http://rr2.dens.tv/s/s30/index2.m3u8
-#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2vkm6b9.jpg" group-title="Kids",NickJr
-http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2hi4he1.jpg" group-title="Kids",Smart Cinema
-http://103.14.127.35:1935/smartcinema/smartcinema.stream/index.m3u8
-#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2pzle7t.jpg" group-title="Kids",Cartoon Network
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2ebbm93.jpg" group-title="Education",Al Quran Al Kareem
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2ebbm93.jpg" group-title="Knowledge",Al Quran Al Kareem
 http://rr2.dens.tv/s/s28/index2.m3u8
-#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2aijb6d.jpg" group-title="Education",Rodja TV
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2aijb6d.jpg" group-title="Knowledge",Rodja TV
 http://rr2.dens.tv/s/s14/index2.m3u8
-#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/33ctao5.jpg" group-title="Education",CGTN Documentary
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/33ctao5.jpg" group-title="Knowledge",CGTN Documentary
 http://rr2.dens.tv/s/s20/index2.m3u8
 
 
