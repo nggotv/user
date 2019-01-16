@@ -44,10 +44,14 @@ http://119.235.249.60:1935/tv9/live/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/1zn77gy.jpg" group-title="Local TV",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2dj5fns.jpg" group-title="Local TV",Elshinta
+http://210.210.155.35/session/710a770c-3c30-11e8-b9cb-c81f66f89318/qwr9ew/s/s10/index1.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://oi64.tinypic.com/214vciv.jpg" group-title="Kids",MY Kids
 http://rr2.dens.tv/s/s30/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/1822qa.jpg" group-title="Kids",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2vkm6b9.jpg" group-title="Kids",NickJr
 http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2hi4he1.jpg" group-title="Kids",Smart Cinema
@@ -56,20 +60,24 @@ http://103.14.127.35:1935/smartcinema/smartcinema.stream/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2mn3q6d.jpg" group-title="Entertainment",K+
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/i6a0wi.jpg" group-title="Entertainment",K+
 http://rr.dens.tv/h/h08/index2.m3u8
-#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/apis9e.jpg" group-title="Entertainment",SBS-in
-http://rr.dens.tv/h/h28/index2.m3u8
-#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/e0nblx.jpg" group-title="Entertainment",KIX
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/30kpxdg.jpg" group-title="Entertainment",KIX
 http://rr.dens.tv/h/h07/index2.m3u8
-#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/9izu2s.jpg" group-title="Entertainment",K DRAMA
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/34gt5zr.jpg" group-title="Entertainment",K DRAMA
 http://rr2.dens.tv/s/s42/index2.m3u8
-#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/29wpt7o.jpg" group-title="Entertainment",TV 5 Monde
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/23tow3l.jpg" group-title="Entertainment",TV 5 Monde
 http://rr2.dens.tv/s/s24/index2.m3u8
-#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/10mivs5.jpg" group-title="Entertainment",Zee Cafe
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2vw5icn.jpg" group-title="Entertainment",Zee Cafe
 https://z5ams.akamaized.net/zeecafehd/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2dj5fns.jpg" group-title="Entertainment",Elshinta
-http://210.210.155.35/session/710a770c-3c30-11e8-b9cb-c81f66f89318/qwr9ew/s/s10/index1.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/jifihk.jpg" group-title="Entertainment",Sony One
+http://210.210.155.35/session/ac77433c-048b-11e9-8761-b82a72d63267/uq2663/h/h13/02.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/68a26r.jpg" group-title="Entertainment",AXN
+http://210.210.155.35/session/407f0c34-3509-11e8-b67b-c81f66f89318/uq2663/h/h09/index1.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/k3wryb.jpg" group-title="Entertainment",DIVA
+http://210.210.155.35/session/af8e903a-350a-11e8-b67b-c81f66f89318/uq2663/h/h11/index1.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2cngr4g.jpg" group-title="Entertainment",Sony Channel
+http://210.210.155.35/session/b135365e-048b-11e9-8761-b82a72d63267/uq2663/h/h06/01.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2823l8z.jpg" group-title="Movies",Thrill
@@ -78,6 +86,8 @@ http://rr2.dens.tv/s/s34/index2.m3u8
 http://rr2.dens.tv/s/s33/index2.m3u8
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2cgf0qf.jpg" group-title="Movies",Zee Bioskop
 http://rr2.dens.tv/s/s32/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2irkmkx.jpg" group-title="Movies",Sony Movies
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/10ie913.jpg" group-title="Movies",Fox Movie Action
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/1eknqx.jpg" group-title="Movies",&flix HD
