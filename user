@@ -138,13 +138,13 @@ http://rr2.dens.tv/s/s14/index2.m3u8
 http://rr2.dens.tv/s/s20/index2.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/a1puti.jpg" group-title="Music",MTV
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/15ysupv.jpg" group-title="Music",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/oaneja.jpg" group-title="Music",HIT TV
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/5xnyop.jpg" group-title="Music",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/xkni3t.jpg" group-title="Music",M2O TV
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2qvwnyg.jpg" group-title="Music",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/5zlc39.jpg" group-title="Music",Maleo Channel
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/14o553r.jpg" group-title="Music",Maleo Channel
 http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/r2qn2b.jpg" group-title="Music",Klik Musik
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2ika8he.jpg" group-title="Music",Klik Musik
 http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/playlist.m3u8
