@@ -54,6 +54,8 @@ http://rr2.dens.tv/s/s30/index2.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="http://oi65.tinypic.com/339n0q0.jpg" group-title="Kids",NickJr
 http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2lm3uh0.jpg" group-title="Kids",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2pqmbnl.jpg" group-title="Kids",Smart Cinema
 http://103.14.127.35:1935/smartcinema/smartcinema.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://oi66.tinypic.com/nmhqg1.jpg" group-title="Kids",Cartoon Network
@@ -62,6 +64,8 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 http://210.210.155.35/session/48fad06a-3774-11e8-b67b-c81f66f89318/uq2663/h/h01/index1.m3u8
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/mm3gd5.jpg" group-title="Kids",Aniplus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/23k92pt.jpg" group-title="Kids",KIDS JR
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://oi65.tinypic.com/i6a0wi.jpg" group-title="Entertainment",K+
@@ -141,7 +145,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 http://stream2.ninmedia.tv/live/xmedia-rumahtv.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/e0he21.jpg" group-title="Lifestyle",TLC
 http://80.80.160.168/live/2/live.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="http://oi66.tinypic.com/1zfh8v8.jpg" group-title="Knowledge",Al Quran Al Kareem
