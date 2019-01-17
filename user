@@ -66,8 +66,6 @@ http://210.210.155.35/session/48fad06a-3774-11e8-b67b-c81f66f89318/uq2663/h/h01/
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="http://oi66.tinypic.com/23k92pt.jpg" group-title="Kids",KIDS JR
 http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/zltfg8.jpg" group-title="Kids",GONGMAX TV
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://oi65.tinypic.com/i6a0wi.jpg" group-title="Entertainment",K+
@@ -88,6 +86,8 @@ http://210.210.155.35/session/407f0c34-3509-11e8-b67b-c81f66f89318/uq2663/h/h09/
 http://210.210.155.35/session/af8e903a-350a-11e8-b67b-c81f66f89318/uq2663/h/h11/index1.m3u8
 #EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2cngr4g.jpg" group-title="Entertainment",Sony Channel
 http://210.210.155.35/session/b135365e-048b-11e9-8761-b82a72d63267/uq2663/h/h06/01.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/zltfg8.jpg" group-title="Entertainment",GONGMAX TV
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2823l8z.jpg" group-title="Movies",Thrill
