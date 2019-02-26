@@ -76,10 +76,8 @@ http://rr.dens.tv/h/h07/index2.m3u8
 http://rr2.dens.tv/s/s42/index2.m3u8
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/23tow3l.jpg" group-title="Entertainment",TV 5 Monde
 http://rr2.dens.tv/s/s24/index2.m3u8
-#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2lyiop.jpg" group-title="Entertainment",FX
-http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29619?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
-#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/112hmb4.jpg" group-title="Entertainment",Fox HD
-http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29620?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2qspk69.jpg" group-title="Entertainment",ANIMAX
+http://45.126.83.51/dr9445/h/h18/01.m3u8
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/jifihk.jpg" group-title="Entertainment",Sony One
 http://210.210.155.35/session/ac77433c-048b-11e9-8761-b82a72d63267/uq2663/h/h13/02.m3u8
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/68a26r.jpg" group-title="Entertainment",AXN
@@ -95,8 +93,6 @@ http://rr2.dens.tv/s/s34/index2.m3u8
 http://rr2.dens.tv/s/s33/index2.m3u8
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2cgf0qf.jpg" group-title="Movies",Zee Bioskop
 http://rr2.dens.tv/s/s32/index2.m3u8
-#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/10ie913.jpg" group-title="Movies",Fox Movies
-http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29624?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2irkmkx.jpg" group-title="Movies",Sony Movies
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/z8rjs.jpg" group-title="Movies",My Cinema
@@ -142,15 +138,15 @@ http://rr2.dens.tv/s/s28/index2.m3u8
 #EXTINF:-1 tvg-logo="http://oi66.tinypic.com/fz3pjn.jpg" group-title="Knowledge",Rodja TV
 http://rr2.dens.tv/s/s14/index2.m3u8
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2i10en8.jpg" group-title="Knowledge",Discovery
-http://80.80.160.168/live/8/2500000/live.m3u8
+http://103.205.133.14/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/j911dl.jpg" group-title="Knowledge",CGTN Documentary
 http://rr2.dens.tv/s/s20/index2.m3u8
 #EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1onbpj.jpg" group-title="Knowledge",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2zgyzrm.jpg" group-title="Knowledge",National Geograpich
-http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29609?token=GkQJUBUMGwpABlRTBAVUUVcFU1QDBFINUQ0HAFMPBQZXUFJVB10NAAYQTkQVREIABV08XlRDCgYLD1JaHRVBRQQUPlgCRgMSWwBSUV4CEklGRApaVUMKBQcNVFYFBw0CUkpDQQ8AGwpAA1BWUQMSSUZVG0NVE15VXmYGBkdeV1NDXA9ECggVEg1cPQIDXVELABJZFQFDHBZbShJBCxVkYkEyBF0NC1QQK1wGCQhVQwwFEk8VUghERlNNB0ELWUFaDUpDUgkRV0QQS0BcRHl0R0gSBk9EBF5HW1YMQQsVQEVDSkNYFTtLVRFGEAMHXVUXRgpBBxJNEllTQT0AXllaUwISCF4IFxsKQANASkRdXwsNRAxFbxFZUBADQFIDBwcBQxs=
-#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/bg93s8.jpg" group-title="Knowledge",Nat Geo People
-http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29608?token=GkQJUBUMGwpABwBXVFMGBFwJVVNRWAcHVFtWVldTUgUHVQQIBFcLAFcQTkQVREIABV08XlRDCgYLD1JbHRVBRQQUPlgCRgMSWwBSUV4CEklGRApaVUMKBQcNVFYFBgAAUEpDQQ8AGwpAAFNVXwISSUZVG0NVE15VXmYGBkdeV1NDXA9ECggVEg1cPQIDXVELABJZFQFDHBZbShJBCxVkYkEyBF0NC1QQK1wGCQhVQwwFEk8VUghERlNNB0ELFQYEV1VDHUQHVkUMRhAfRAoSLCASTxVVGURRXEoLDF8VDhQVFUMdRA1KbxBXERIUVVEIAUJBDRJREhgQVAMbblRbWA8DAkUPC1dDQAhAV0QcEggLXgpDXxNvRFtdQFkTBQUFV1NDTA==
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2vhvwgj.jpg" group-title="Knowledge",Nat Geo Wild
+http://103.205.133.14/hls/natgeo.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2pqmcfq.jpg" group-title="Knowledge",History
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
 
 #EXTINF:-1 tvg-logo="http://oi65.tinypic.com/15ysupv.jpg" group-title="Music",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
