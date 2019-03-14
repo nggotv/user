@@ -49,14 +49,10 @@ http://210.210.155.35/session/710a770c-3c30-11e8-b9cb-c81f66f89318/qwr9ew/s/s10/
 
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/xdtcmo.jpg" group-title="Kids",MY Kids
 http://rr2.dens.tv/s/s30/index2.m3u8
-#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/1822qa.jpg" group-title="Kids",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="http://oi65.tinypic.com/339n0q0.jpg" group-title="Kids",NickJr
 http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2lm3uh0.jpg" group-title="Kids",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2pqmbnl.jpg" group-title="Kids",Smart Cinema
-http://103.14.127.35:1935/smartcinema/smartcinema.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://oi66.tinypic.com/nmhqg1.jpg" group-title="Kids",Cartoon Network
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/50jn8n.jpg" group-title="Kids",DA VINCI KIDS
@@ -65,8 +61,6 @@ http://210.210.155.35/session/48fad06a-3774-11e8-b67b-c81f66f89318/uq2663/h/h01/
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="http://oi66.tinypic.com/23k92pt.jpg" group-title="Kids",KIDS JR
 http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/zltfg8.jpg" group-title="Kids",GONGMAX TV
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://oi65.tinypic.com/i6a0wi.jpg" group-title="Entertainment",K+
 http://rr.dens.tv/h/h08/index2.m3u8
@@ -99,8 +93,6 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3
 http://210.210.155.35/session/425786ec-0490-11e9-aa9a-b82a72d63267/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2dioxm1.jpg" group-title="Movies",Cinema World
 http://210.210.155.35/session/3c212fda-0490-11e9-a250-b82a72d63267/uq2663/h/h04/02.m3u8
-#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/1z6vyx5.jpg" group-title="Movies",HBO2
-http://161.0.157.6/PLTV/88888888/224/3221227026/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2hwfzud.jpg" group-title="News",Al Jazeera
 http://rr2.dens.tv/s/s17/index2.m3u8
