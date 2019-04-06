@@ -65,7 +65,7 @@ http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3
 #EXTINF:-1 tvg-logo="http://oi65.tinypic.com/i6a0wi.jpg" group-title="Entertainment",K+
 http://rr.dens.tv/h/h08/index2.m3u8
 #EXTINF:-1 tvg-logo="http://oi66.tinypic.com/30kpxdg.jpg" group-title="Entertainment",KIX
-http://rr.dens.tv/h/h07/index2.m3u8
+http://210.210.155.35/uq2663/h/h07/index.m3u8
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/34gt5zr.jpg" group-title="Entertainment",K DRAMA
 http://rr2.dens.tv/s/s42/index2.m3u8
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/23tow3l.jpg" group-title="Entertainment",TV 5 Monde
@@ -82,13 +82,11 @@ http://210.210.155.35/session/af8e903a-350a-11e8-b67b-c81f66f89318/uq2663/h/h11/
 http://210.210.155.35/session/b135365e-048b-11e9-8761-b82a72d63267/uq2663/h/h06/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2823l8z.jpg" group-title="Movies",Thrill
-http://rr2.dens.tv/s/s34/index2.m3u8
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/wb2lw5.jpg" group-title="Movies",Celestial Movies
-http://rr2.dens.tv/s/s33/index2.m3u8
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2cgf0qf.jpg" group-title="Movies",Zee Bioskop
 http://rr2.dens.tv/s/s32/index2.m3u8
-#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2irkmkx.jpg" group-title="Movies",Sony Movies
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/z8rjs.jpg" group-title="Movies",My Cinema
 http://210.210.155.35/session/425786ec-0490-11e9-aa9a-b82a72d63267/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2dioxm1.jpg" group-title="Movies",Cinema World
