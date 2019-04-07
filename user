@@ -133,8 +133,6 @@ http://103.205.133.14/hls/discovery.m3u8
 http://rr2.dens.tv/s/s20/index2.m3u8
 #EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1onbpj.jpg" group-title="Knowledge",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2vhvwgj.jpg" group-title="Knowledge",Nat Geo Wild
-http://103.205.133.14/hls/natgeo.m3u8
 #EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2pqmcfq.jpg" group-title="Knowledge",History
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
 
@@ -144,7 +142,3 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2qvwnyg.jpg" group-title="Music",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/14o553r.jpg" group-title="Music",Maleo Channel
-http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2ika8he.jpg" group-title="Music",Klik Musik
-http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/playlist.m3u8
