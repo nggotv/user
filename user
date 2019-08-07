@@ -73,14 +73,8 @@ http://rr2.dens.tv/s/s42/index2.m3u8
 http://rr2.dens.tv/s/s24/index2.m3u8
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2qspk69.jpg" group-title="Entertainment",ANIMAX
 http://45.126.83.51/dr9445/h/h18/01.m3u8
-#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/jifihk.jpg" group-title="Entertainment",Sony One
-http://210.210.155.35/session/ac77433c-048b-11e9-8761-b82a72d63267/uq2663/h/h13/02.m3u8
-#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/68a26r.jpg" group-title="Entertainment",AXN
-http://210.210.155.35/session/407f0c34-3509-11e8-b67b-c81f66f89318/uq2663/h/h09/index1.m3u8
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/k3wryb.jpg" group-title="Entertainment",DIVA
 http://210.210.155.35/session/af8e903a-350a-11e8-b67b-c81f66f89318/uq2663/h/h11/index1.m3u8
-#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2cngr4g.jpg" group-title="Entertainment",Sony Channel
-http://210.210.155.35/session/b135365e-048b-11e9-8761-b82a72d63267/uq2663/h/h06/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2823l8z.jpg" group-title="Movies",Thrill
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
@@ -119,8 +113,6 @@ http://rr.dens.tv/h/h05/index2.m3u8
 
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/27x4j7o.jpg" group-title="Lifestyle",HOME&LIVING
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/kebwo6.jpg" group-title="Lifestyle",RUMAH TV
-http://stream2.ninmedia.tv/live/xmedia-rumahtv.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/e0he21.jpg" group-title="Lifestyle",TLC
 http://80.80.160.168/live/2/live.m3u8
 
